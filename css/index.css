@@ -1,0 +1,14 @@
+.root .max_width {
+  max-width: 1100px;
+  margin: auto;
+}
+.root .nav_header {
+  background-color: #111111;
+  height: 70px;
+  line-height: 70px;
+}
+.root .nav_header_content_title {
+  color: #ffffff;
+  font-size: 36px;
+  font-weight: 600;
+}/*# sourceMappingURL=index.css.map */
